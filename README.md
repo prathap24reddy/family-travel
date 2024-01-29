@@ -1,3 +1,6 @@
+
+![travel tracker](https://github.com/prathap24reddy/todo/assets/136371579/99db8f2e-6308-45f8-89d2-7bf7379af023)
+
 ### ExploreTogether: Your Passport to Family Adventures
 
 Welcome to ExploreTogether, the ultimate family travel website designed to capture and share your globetrotting adventures. With a seamless blend of Postgres database, HTML, EJS, and JavaScript, this platform offers a unique and visually appealing way for users to document their journeys and showcase their global footprint.
